@@ -4,7 +4,7 @@ import numpy as np
 
 model = load('model.joblib')
 
-st.title("COVID-19 Prediction App By vikas jangid")
+st.title("COVID-19 Prediction App")
 
 st.header("Enter Patient Details corrrectly :")
 
