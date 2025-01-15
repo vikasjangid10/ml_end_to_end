@@ -6,7 +6,7 @@ model = load('model.joblib')
 
 st.title("COVID-19 Prediction App By vikas")
 
-st.header("Enter Patient Details:")
+st.header("Enter Patient Details corrrectly :")
 
 age = st.number_input("Age", min_value=0, max_value=120, value=30, step=1)
 
